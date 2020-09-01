@@ -1,7 +1,7 @@
 <h2 align="center">About me</h2>
 
 I'm a bioinformatician with a computational biology PhD from ETH Zürich.
-Employed as full-time remote Senior Staff Software Engineer at PacBio since 2014 and responsible for most of PacBio's analysis tools.
+Employed as full-time remote Principal Software Engineer at PacBio since 2014 and responsible for most of PacBio's analysis tools.
 May day-to-day business is working on sequence analysis algorithms using hardware-near C++, designing software architectures, tech-leading, and Agile stuff.
 You can get my attention if you work on specialized bioinformatics algorithms, software architectures, or bare metal.
 
