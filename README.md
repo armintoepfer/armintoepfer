@@ -12,7 +12,7 @@ Get my public key
 
 <h2 align="center">PacBio Tool Highlights</h2>
 <p align="center">
-<a href="https://github.com/PacificBiosciences/ccs"><img src="https://github.com/PacificBiosciences/ccs/blob/develop/img/ccs.png" height="90px"/></a>
+<a href="https://github.com/PacificBiosciences/ccs"><img src="https://github.com/PacificBiosciences/ccs/blob/develop/docs/img/ccs.png" height="90px"/></a>
 <a href="https://github.com/PacificBiosciences/barcoding"><img src="https://github.com/PacificBiosciences/barcoding/blob/master/img/lima.png" height="90px"/></a>
 <a href="https://github.com/PacificBiosciences/minorseq"><img src="https://github.com/PacificBiosciences/minorseq/blob/master/doc/img/juliet.png" height="90px"/></a>
 <a href="https://github.com/pacificbiosciences/isoseq3"><img src="https://github.com/PacificBiosciences/IsoSeq/blob/master/doc/img/isoseq.png" height="90px"/></a>
