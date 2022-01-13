@@ -14,7 +14,7 @@ Get my public key
 <p align="center">
 <a href="https://github.com/PacificBiosciences/ccs"><img src="https://github.com/PacificBiosciences/ccs/blob/develop/docs/img/ccs_pb.png" height="90px"/></a>
 <a href="https://github.com/PacificBiosciences/barcoding"><img src="https://github.com/PacificBiosciences/barcoding/blob/master/docs/img/lima_pb.png" height="90px"/></a>
-<a href="https://github.com/PacificBiosciences/minorseq"><img src="https://github.com/PacificBiosciences/minorseq/blob/master/doc/img/juliet.png" height="90px"/></a>
+<a href="https://github.com/PacificBiosciences/minorseq"><img src="https://github.com/PacificBiosciences/minorseq/blob/master/doc/img/juliet_transparent.png" height="90px"/></a>
 <a href="https://github.com/pacificbiosciences/isoseq3"><img src="https://github.com/PacificBiosciences/IsoSeq/blob/master/doc/img/isoseq.png" height="90px"/></a><a href="https://github.com/PacificBiosciences/pbmm2"><img src="https://github.com/PacificBiosciences/pbmm2/blob/develop/img/pbmm2.png" height="90px"/></a></p>
 <p align="center">
 <a href="https://github.com/PacificBiosciences/pbsv"><img src="https://github.com/PacificBiosciences/pbsv/blob/master/img/sv2.png" height="90px"/></a>
