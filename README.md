@@ -19,7 +19,7 @@ Get my public key
 <p align="center">
 <a href="https://github.com/PacificBiosciences/pbsv"><img src="https://github.com/PacificBiosciences/pbsv/blob/master/img/sv2.png" height="90px"/></a>
 <a href="https://github.com/PacificBiosciences/pbmarkdup"><img src="https://github.com/PacificBiosciences/pbmarkdup/blob/master/img/pbmarkdup-logo.png" height="90px"/></a>
-<a href="https://github.com/PacificBiosciences/harmony"><img src="https://github.com/PacificBiosciences/harmony/blob/develop/img/harmony.png" height="90px"/></a>
+<a href="https://github.com/PacificBiosciences/harmony"><img src="https://github.com/PacificBiosciences/harmony/blob/develop/img/harmony_logo.png" height="90px"/></a>
 </p>
 
 <h2 align="center">PhD Tool Highlights</h2>
