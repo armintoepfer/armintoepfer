@@ -2,7 +2,7 @@
 
 I'm a bioinformatician with a computational biology PhD from ETH Zürich.
 Employed as full-time remote Principal Software Engineer and Associate Director Bioinformatics at PacBio since 2014 and responsible for most of PacBio's analysis tools.
-May day-to-day business is working on sequence analysis algorithms using hardware-near C++, designing software architectures, tech-leading, and Agile stuff.
+My day-to-day business is working on sequence analysis algorithms using hardware-near C++, designing software architectures, tech-leading, and Agile stuff.
 You can get my attention if you work on specialized bioinformatics algorithms, software architectures, or bare metal.
 
 You can find more info on [ArminToepfer.com](https://armintoepfer.com/), [LinkedIn](https://www.linkedin.com/in/armintoepfer), or [Twitter](https://twitter.com/XLR).
